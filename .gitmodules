@@ -1,0 +1,3 @@
+[submodule "lirc-python"]
+	path = lirc-python
+	url = git@github.com:tgerla/lirc-python.git
